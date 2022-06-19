@@ -10,7 +10,8 @@
  
  ## Sur grandes résolutions
 #### Section Accueil 
-   <img align="center" src="https://github.com/alban-okoby/images_projects/blob/main/portfoliotp/lg-header.jpg" />
+   
+   <img align="center" src="https://github.com/alban-okoby/images_projects/blob/main/template_portfolio/sm_header.jpg"
 Section 1
    <img align="center" src="https://github.com/alban-okoby/images_projects/blob/main/ScreenProjects/portfoliotp/lg-section.jpg" />
 Section 2
@@ -34,6 +35,13 @@ Section 2
     <img align="center" src="https://github.com/alban-okoby/images_projects/blob/main/template_portfolio/sm_portfolio.JPG" />
  
  </p>
+ 
+ ## Footer section
+<p align="center">
+   <img align="center" src="https://github.com/alban-okoby/images_projects/blob/main/portfoliotp/lg-footer.jpg" />
+   <img align="center" src="https://github.com/alban-okoby/images_projects/blob/main/portfoliotp/md-footer.jpg" />
+   <img align="center" src="https://github.com/alban-okoby/images_projects/blob/main/portfoliotp/m-footer.jpg" />
+</p>
 
 
     
