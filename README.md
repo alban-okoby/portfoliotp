@@ -7,40 +7,36 @@
  Juste du HTML + CSS + JS.
  
  ## Sreenshots du projet
- 
- ## Sur grandes résolutions
+ #### Nous avons pris des screens de différents mobiles dans le seul but de prouver l'adaptabilité et le responsive du template
+
 #### Section Accueil 
    
-   <img align="center" src="https://github.com/alban-okoby/images_projects/blob/main/template_portfolio/sm_header.jpg"
-Section 1
-   <img align="center" src="https://github.com/alban-okoby/images_projects/blob/main/ScreenProjects/portfoliotp/lg-section.jpg" />
-Section 2
-   <img align="center" src="https://github.com/alban-okoby/images_projects/blob/main/ScreenProjects/portfoliotp/lg-section2.jpg" />
- Section Education
-   <img align="center" src="https://github.com/alban-okoby/images_projects/blob/main/template_portfolio/education.JPG" />
-   
-### Sur mobiles
-#### Nous avons pris des screens de différents mobiles dans le seul but de prouver l'adaptabilité et le responsive du template
+   <img align="center" src="https://github.com/alban-okoby/images_projects/blob/main/portfoliotp/m-header.jpg" />
+   <p align="center">
+   <img align="left" src="https://github.com/alban-okoby/images_projects/blob/main/portfoliotp/lg-section.jpg" />
+   <img align="center" src="https://github.com/alban-okoby/images_projects/blob/main/portfoliotp/md-section.jpg" />
+   <img align="center" width="110px" src="https://github.com/alban-okoby/images_projects/blob/main/portfoliotp/m-section.jpg" />
+</p> <br>
+
+## Section 1
 <p align="center">
-    <a href="#">
-        <img align="center" src="https://github.com/alban-okoby/images_projects/raw/main/template_portfolio/sm_header.jpg" />
-    </a> 
-    <a href="#">
-        <img align="center" style="margin-left:45px" src="https://github.com/alban-okoby/images_projects/raw/main/template_portfolio/sm_home.jpg" />
-    </a>
-    <a href="#">
-       <img align="center" src="https://github.com/alban-okoby/images_projects/blob/main/template_portfolio/sm_about.JPG" />
-        <img align="center" src="https://github.com/alban-okoby/images_projects/blob/main/template_portfolio/sm_education.JPG" />
-    </a>
-    <img align="center" src="https://github.com/alban-okoby/images_projects/blob/main/template_portfolio/sm_portfolio.JPG" />
- 
- </p>
- 
- ## Footer section
+   <img align="left" src="https://github.com/alban-okoby/images_projects/blob/main/portfoliotp/lg-section.jpg" />
+   <img align="center" src="https://github.com/alban-okoby/images_projects/blob/main/portfoliotp/md-section.jpg" />
+   <img align="center" width="110px" src="https://github.com/alban-okoby/images_projects/blob/main/portfoliotp/m-section.jpg" />
+</p> <br>
+
+## Section 2
 <p align="center">
-   <img align="center" src="https://github.com/alban-okoby/images_projects/blob/main/portfoliotp/lg-footer.jpg" />
+   <img align="left" src="https://github.com/alban-okoby/images_projects/blob/main/portfoliotp/lg-section2.jpg" />
+   <img align="center" src="https://github.com/alban-okoby/images_projects/blob/main/portfoliotp/md-section2.jpg" />
+   <img align="center" width="110px" src="https://github.com/alban-okoby/images_projects/blob/main/portfoliotp/m-section2.jpg" />
+</p> <br>
+ 
+ ## Footer
+<p align="center">
+   <img align="left" src="https://github.com/alban-okoby/images_projects/blob/main/portfoliotp/lg-footer.jpg" />
    <img align="center" src="https://github.com/alban-okoby/images_projects/blob/main/portfoliotp/md-footer.jpg" />
-   <img align="center" src="https://github.com/alban-okoby/images_projects/blob/main/portfoliotp/m-footer.jpg" />
+   <img align="center" width="130px" src="https://github.com/alban-okoby/images_projects/blob/main/portfoliotp/m-footer.jpg" />
 </p>
 
 
